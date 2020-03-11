@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Wallet DB</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="register">Register</string>
+    <string name="cancel">Cancel</string>
+    <string name="firstname_hint">First Name</string>
+    <string name="lastname_hint">Last Name</string>
+    <string name="confirm_hint">Confirm</string>
+    <string name="login">Log In</string>
+    <string name="cancelAlertMessage">Are you sure you want to cancel?</string>
+    <string name="yesString">Yes</string>
+    <string name="noString">No</string>
+    <string name="confirmString">Confirm</string>
+    <string name="registerAlertMessage">Are you sure you want to register with these details?</string>
+    <string name="usernameValidation">Username is already taken</string>
+    <string name="welcome_title">Welcome!</string>
+    <string name="greeting_text">Hello, </string>
+    <string name="user_not_found">Invalid Username/Password</string>
+    <string name="invalid">Invalid</string>
+    <string name="emptyfield">Some fields are empty</string>
+    <string name="password_not_match">Password does not match.</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+</resources>
